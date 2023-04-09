@@ -1,0 +1,52 @@
+@font-face {
+  font-family: 'Gothic';
+  src: url('/fonts/GOTHIC.TTF') format('truetype');
+}
+* {
+  box-sizing: content-box;
+}
+
+html, body {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  font-family: 'Gothic', sans-serif;
+}
+.textura {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button-moon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 90%);
+  border: 2px solid white;
+  background-color: rgba(128, 128, 128, 0.3);
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 12px 24px;
+  font-family: 'Gothic', sans-serif;
+}
+h1 {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	background-color: rgba(128, 128, 128, 0.3);
+	color: white;
+	font-size: 16px;
+	text-align: left;
+	padding: 20px;
+	margin: 0;
+}
+
+
+

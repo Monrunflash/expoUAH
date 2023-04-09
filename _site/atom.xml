@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Exposición Área de Prehistoria UAH</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2023-04-09T20:26:44+02:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Samuel Coronil</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>I. Un viaje en el tiempo a través de la evolución humana</title>
+   <link href="http://localhost:4000/viaje-en-el-tiempo"/>
+   <updated>0001-01-04T23:58:32-00:14</updated>
+   <id>http://localhost:4000/viaje-en-el-tiempo</id>
+   <content type="html">&lt;div class=&quot;video-container&quot;&gt;
+&lt;video preload=&quot;auto&quot; controls controlsList=&quot;nofullscreen&quot;&gt;
+  &lt;source src=&quot;/media/Ayla intro 1.mp4&quot; type=&quot;video/mp4&quot;&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+&lt;/div&gt;
+
+&lt;figure class=&quot;figure-container&quot;&gt;
+  &lt;figcaption&gt;Video generado mediante Inteligencia Artificial&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;!--
+&lt;figure class=&quot;figure-container&quot;&gt;
+  &lt;div class=&quot;image-container&quot;&gt;
+    &lt;img class=&quot;post-image&quot; src=&quot;/img/Ayla smiling 1.png&quot; alt=&quot;AI Image&quot;&gt;
+  &lt;/div&gt;
+  &lt;figcaption&gt;AI Image&lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+
+&lt;p&gt;Soy Ayla, una recreación por Inteligencia Artificial de una mujer &lt;span style=&quot;font-style: italic;&quot;&gt;Homo sapiens&lt;/span&gt; del Paleolítico, inspirada en la protagonista de la saga de ficción Los Hijos de la Tierra, escrita por la autora americana Jean Auel; y voy a ser vuestra guía en este viaje en el tiempo a través de la evolución humana. &lt;/p&gt;
+
+&lt;p&gt;Para una experiencia más inmersiva, te recomiendo que uses auriculares.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>II. Los orígenes de la humanidad</title>
+   <link href="http://localhost:4000/origenes-humanidad"/>
+   <updated>0001-01-03T23:58:32-00:14</updated>
+   <id>http://localhost:4000/origenes-humanidad</id>
+   <content type="html">&lt;div class=&quot;addons-container&quot;&gt;
+    &lt;audio class=&quot;audio-box&quot; src=&quot;/media/origenes_humanidad.mp3&quot; preload=&quot;auto&quot; controls type=&quot;audio/mpeg&quot;&gt;
+            &lt;a href=&quot;/media/Intro_mezcla.mp3&quot;&gt;
+                Download audio
+            &lt;/a&gt;
+    &lt;/audio&gt;
+&lt;/div&gt;
+
+&lt;p&gt;¿Quiénes somos y de dónde venimos? Son dos de las preguntas que más han intrigado a los seres humanos a lo largo de su historia. Comprender nuestros orígenes es determinante a la hora de entender nuestra historia evolutiva y, por tanto, de planificar nuestro futuro como especie. Todas estas cuestiones me han acompañado siempre, sobre todo al ser una de las primeras mujeres &lt;span style=&quot;font-style: italic;&quot;&gt;Homo sapiens&lt;/span&gt;, una humana anatómicamente moderna. &lt;/p&gt;
+
+&lt;p&gt;Soy Ayla, y hoy quiero contaros cómo era tanto la vida de mis antepasados como la de los vuestros a través de la historia de la evolución humana. El origen de nuestro linaje da inicio con los primeros mamíferos parecidos a los primates. Dentro del orden de los primates, se ubican los homínidos o grandes simios. Por evidencia genética, se sabe que los chimpancés y seres humanos divergimos de un ancestro común que vivió hace aproximadamente unos 6 millones de años. Muchas especies evolucionaron en la rama que nos incluye a los &lt;span style=&quot;font-style: italic;&quot;&gt;Homo sapiens&lt;/span&gt;, aunque somos nosotros los únicos supervivientes en la actualidad. &lt;/p&gt;
+
+&lt;p&gt;Seguro que has oído hablar de una de mis antepasadas, Lucy. Su especie perteneciente a los Australopithecus, evolucionó en África oriental hace aproximadamente 4 millones de años y se extinguió hace 2 millones de años. Lucy y su especie fueron uno de los primeros homínidos en caminar erguidos.&lt;/p&gt;
+
+&lt;p&gt;Aunque ahora me parezca increíble, desde nuestra aparición hasta que desarrollamos la facultad de manipular unas simples piedras con las que crear herramientas pasaron millones de años. Hace 2 millones y medio de años, apareció el primer representante de la especie humana capaz de fabricar herramientas, el &lt;span style=&quot;font-style: italic;&quot;&gt;Homo habilis&lt;/span&gt;. Así, desde el Paleolítico empezamos a utilizar herramientas de piedra para cazar, alimentarnos y elaborar ropa. Estas consistían en cantos de río golpeados para lograr filos cortantes con los que cazar y descuartizar las presas con facilidad, lo que mejoró nuestra dieta, logrando más nutrientes, y favoreciendo así nuestro desarrollo cerebral.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>III. El final de la Prehistoria</title>
+   <link href="http://localhost:4000/fin-prehistoria"/>
+   <updated>0001-01-02T23:58:32-00:14</updated>
+   <id>http://localhost:4000/fin-prehistoria</id>
+   <content type="html">&lt;div class=&quot;addons-container&quot;&gt;
+    &lt;audio class=&quot;audio-box&quot; src=&quot;/media/final_prehistoria.mp3&quot; preload=&quot;auto&quot; controls type=&quot;audio/mpeg&quot;&gt;
+            &lt;a href=&quot;/media/Intro_mezcla.mp3&quot;&gt;
+                Download audio
+            &lt;/a&gt;
+    &lt;/audio&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Un momento de grandes cambios fue la desaparición de los neandertales y los primeros poblamientos de &lt;span style=&quot;font-style: italic;&quot;&gt;Homo sapiens&lt;/span&gt;, o los primeros humanos anatómicamente modernos, durante el último ciclo glaciar, hace entre 200.000 y 100.000 años. Yo fui testigo del final de esta época. &lt;/p&gt;
+
+&lt;p&gt;Se cree que nuestra especie evolucionó a partir del &lt;span style=&quot;font-style: italic;&quot;&gt;Homo Erectus&lt;/span&gt; hace unos 500.000 años, el primer homínido en controlar el fuego. De esa época se han encontrado diversos fósiles muy cercanos en apariencia al &lt;span style=&quot;font-style: italic;&quot;&gt;Homo sapiens&lt;/span&gt;, pero aún con diferencias anatómicas, por lo que los llamamos humanos arcaicos. &lt;/p&gt;
+
+&lt;p&gt;Estos se distinguen anatómicamente de nosotros por tener un cráneo más grueso, un arco superciliar prominente y una barbilla poco acentuada. Algunas de estas especies sobrevivieron hasta hace unos 30.000 a 10.000 años, lo que indicaría que convivimos con ellos durante un período. &lt;/p&gt;
+
+&lt;p&gt;Nosotros, los &lt;span style=&quot;font-style: italic;&quot;&gt;Homo sapiens&lt;/span&gt;, emigramos fuera del continente hace unos 100.000 años, en una segunda ola migratoria. Así, nuestra especie poco a poco reemplazó a las especies humanas arcaicas de descendientes del &lt;span style=&quot;font-style: italic;&quot;&gt;Homo erectus&lt;/span&gt;, que ya estaban asentadas en Asia y Europa. &lt;/p&gt;
+
+&lt;p&gt;Por tanto, actualmente, sólo existen los &lt;span style=&quot;font-style: italic;&quot;&gt;Homo sapiens&lt;/span&gt; sapiens como única especie representante del género humano. Una de las características de nuestra especie es la curiosidad. El querer saber siempre qué hay más allá, lo que nos llevó a poblar el mundo entero y desarrollar una gran variedad de ricas culturas. &lt;/p&gt;
+
+&lt;p&gt;El Neolítico, iniciado hace 8.000 años, fue un período de grandes avances. Para empezar, los humanos aprendimos a pulir la piedra. Esto nos permitió fabricar útiles más afilados y precisos, como puntas de flecha, que uníamos a varas de madera con cuerdas para crear lanzas y así cazar animales para alimentarnos. &lt;/p&gt;
+
+&lt;p&gt;Como consecuencia de los asentamientos, empezamos a crear espacios funerarios en los mismos lugares donde residíamos con el fin de dar sepultura a miembros de nuestra comunidad. Ya en el Paleolítico Medio, los neandertales comenzaron a realizar esta práctica. &lt;/p&gt;
+
+&lt;p&gt;Dentro de las prácticas rituales del Calcolítico y la Edad de Bronce, del año 3.000 al 850 a.C., era frecuente encontrar unas piezas de cerámica muy características, conocidas como vasos campaniformes de color rojo o marrón-rojizo modelados a mano con arcilla y luego horneados. Se diferenciaban por su decoración con anchas bandas horizontales incisas y separadas por otras sin decoración. Estos recipientes formaban parte del ajuar de nuestros muertos. También podían encontrarse en algunos ámbitos domésticos, sin embargo, eran menos frecuentes por considerarse objetos de lujo por su gran calidad artística, que eran muestra del estatus social, lo que nos habla de sociedades cada vez más jerarquizadas.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>IV. Imágenes de la Prehistoria</title>
+   <link href="http://localhost:4000/imagenes-prehistoria"/>
+   <updated>0001-01-01T23:58:32-00:14</updated>
+   <id>http://localhost:4000/imagenes-prehistoria</id>
+   <content type="html">&lt;div class=&quot;addons-container&quot;&gt;
+    &lt;audio class=&quot;audio-box&quot; src=&quot;/media/imagenes_pehistoria.mp3&quot; preload=&quot;auto&quot; controls type=&quot;audio/mpeg&quot;&gt;
+            &lt;a href=&quot;/media/Intro_mezcla.mp3&quot;&gt;
+                Download audio
+            &lt;/a&gt;
+    &lt;/audio&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Durante el Paleolítico, comenzamos a pintar y grabar las paredes de las cuevas, así como rocas al aire libre, llegando a decorar estructuras megalíticas a partir del Neolítico. Estas imágenes fueron una herramienta que nos sirvió para expresar mensajes diversos favoreciendo nuestra unión social como tribu. Fueron un medio de comunicación de nuestro rico mundo simbólico, marcado por un sentido estético y místico.&lt;/p&gt;
+
+&lt;p&gt;Estos espacios normalmente se encontraban en lugares de difícil acceso, pues eran rincones reservados a la tribu, donde contemplábamos la historia de nuestros antepasados, dejando también la huella de nuestro paso por la Tierra. La mayoría de motivos que representábamos en estos lugares, eran símbolos abstractos como figuras geométricas, pero también pintábamos figuras naturalistas, como los animales que nos rodeaban: mamuts, bisontes, caballos, ciervos y renos. &lt;/p&gt;
+
+&lt;p&gt;Según avanzó el tiempo, durante la época neolítica, comenzamos a representar motivos geométricos, similares a los que grabábamos en la cerámica, alrededor de 6.000 años a.C. Comenzamos a representar escenas de la vida cotidiana más naturalistas, como escenas de caza con personajes humanos, y a dejar el rastro de las huellas de nuestras manos. &lt;/p&gt;
+
+&lt;p&gt;Otros soportes importantes del arte rupestre fueron los megalitos, que aparecieron también durante esta época, monumentos que construíamos a partir de grandes losas de piedra situadas unas encima de las otras. Estos conmemoraban enterramientos, acontecimientos pasados y lugares sagrados para nosotros. &lt;/p&gt;
+
+&lt;p&gt;Para la creación de estas pinturas usábamos pigmentos minerales molidos, como óxidos de hierro, manganeso y carbones vegetales. Aplicábamos directamente el pigmento en polvo o aglutinado con otras sustancias o fluidos orgánicos, como grasa o resina, para modificar la calidad de la pintura y aumentar su fijación y permanencia sobre los soportes. El rojo era el color más frecuente junto con el negro, el ocre, el amarillo y el blanco en distintas gradaciones, como resultado de la mezcla de pigmentos. &lt;/p&gt;
+
+&lt;p&gt;Además, nos valíamos de pinceles de pelo animal para conseguir trazos finos o pintar grandes superficies; o de ramas quemadas, bolas de pigmento, resina para dibujar y cañas huecas con las que soplar la pintura. Para poder iluminar los interiores de las cuevas, usábamos lámparas. Las fabricábamos a partir de piedras horadadas en el centro, en las cuales colocábamos grasas de origen vegetal o animal, como la que obteníamos del tuétano de los huesos de las presas de caza. &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>V. Final del viaje</title>
+   <link href="http://localhost:4000/cierre"/>
+   <updated>0000-12-31T23:58:32-00:14</updated>
+   <id>http://localhost:4000/cierre</id>
+   <content type="html">&lt;div class=&quot;video-container&quot;&gt;
+&lt;video preload=&quot;auto&quot; controls controlsList=&quot;nofullscreen&quot;&gt;
+  &lt;source src=&quot;/media/Ayla_cierre.mp4&quot; type=&quot;video/mp4&quot;&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+&lt;/div&gt;
+
+&lt;figure class=&quot;figure-container&quot;&gt;
+  &lt;figcaption&gt;Video generado mediante Inteligencia Artificial&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Aquí finaliza nuestro recorrido. Todavía hay mucho por contar. Así que, espero que continuéis buscando información e investigando por vuestra cuenta para desvelar los misterios aún ocultos sobre la fascinante historia de nuestra evolución. Gracias por acompañarme en este viaje al pasado. ¡Hasta la próxima, viajeros!&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

@@ -1,0 +1,314 @@
+
+/*
+ * Contents
+ *
+ * Global resets
+ * Sidebar
+ * Container
+ * Reverse layout
+ * Themes
+ */
+
+
+/*
+ * Global resets
+ *
+ */
+ @font-face {
+  font-family: 'Gothic';
+  src: url('/fonts/GOTHIC.TTF') format('truetype');
+}
+html {
+  font-family: 'Gothic', sans-serif;
+}
+@media (min-width: 48em) {
+  html {
+    font-size: 16px;
+  }
+}
+@media (min-width: 58em) {
+  html {
+    font-size: 20px;
+  }
+}
+
+
+/*
+ * Sidebar
+ *
+ */
+
+.sidebar {
+  text-align: left;
+  padding: 2rem 1rem;
+  color: rgba(255,255,255,.5);
+  background-color: #202020;
+}
+@media (min-width: 48em) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 18rem;
+    text-align: left;
+  }
+}
+
+/* Sidebar links */
+.sidebar a {
+  color: #fff;
+}
+
+/* About section */
+.sidebar-about h1 {
+  color: #fff;
+  margin-top: 0;
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+/* Sidebar nav */
+.sidebar-nav {
+  margin-bottom: 1rem;
+}
+.sidebar-nav-item {
+  display: block;
+  line-height: 1.75;
+}
+a.sidebar-nav-item:hover,
+a.sidebar-nav-item:focus {
+  text-decoration: underline;
+}
+.sidebar-nav-item.active {
+  font-weight: bold;
+}
+
+/* Sticky sidebar
+ *
+ * Add the `sidebar-sticky` class to the sidebar's container to affix it the
+ * contents to the bottom of the sidebar in tablets and up.
+ */
+
+@media (min-width: 48em) {
+  .sidebar-sticky {
+    position: absolute;
+    right:  1rem;
+    bottom: 1rem;
+    left:   1rem;
+  }
+}
+
+.index-list {
+  display: none;
+  list-style: none;
+}
+
+.index-toggle {
+  cursor: pointer;
+}
+
+.index-list.show {
+  display: block;
+  animation: fadeIn 1.5s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+/* Container
+ *
+ */
+
+.content {
+  padding-top:    4rem;
+  padding-bottom: 4rem;
+}
+
+@media (min-width: 48em) {
+  .content {
+    max-width: 38rem;
+    margin-left: 20rem;
+    margin-right: 2rem;
+  }
+}
+
+@media (min-width: 64em) {
+  .content {
+    margin-left: 22rem;
+    margin-right: 4rem;
+  }
+}
+
+
+/*
+ * Reverse layout
+ *
+ * Flip the orientation of the page by placing the `.sidebar` on the right.
+ */
+
+@media (min-width: 48em) {
+  .layout-reverse .sidebar {
+    left: auto;
+    right: 0;
+  }
+  .layout-reverse .content {
+    margin-left: 2rem;
+    margin-right: 20rem;
+  }
+}
+
+@media (min-width: 64em) {
+  .layout-reverse .content {
+    margin-left: 4rem;
+    margin-right: 22rem;
+  }
+}
+
+/*
+ * Footer
+ *
+ * Place here the footer config.
+ */
+
+ footer {
+  background-color: rgb(228,200,113);
+  background-image: url('/img/panel-amarillo-chop.png');
+  /*filter: grayscale(50%);*/
+  padding: 20px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: rgba(245, 245, 220, 0.199);
+}
+
+.footer-image {
+  margin-top: 20px;
+  margin-right: 20px;
+  flex-shrink: 0;
+}
+
+.footer-image:last-child {
+  margin-right: 0;
+}
+
+.footer-image img {
+  max-width: 150px;
+  max-height: 150px;
+  display: block;
+}
+
+@media (min-width: 48em) {
+  .footer-container {
+    justify-content: right;
+    align-items: right;
+  }
+  .footer-image {
+    flex-shrink: 0;
+  }
+  
+  .footer-image:last-child {
+    margin-right: 20px;
+  }
+  .footer-image img {
+    max-width: 150px;
+    max-height: 150px;
+  }
+}
+@media (min-width: 80em) {
+  .footer-image {
+    margin-top: 20px;
+    margin-right: 60px;
+    flex-shrink: 0;
+    max-width: 200px;
+    max-height: 200px;
+  }
+  .footer-image:last-child {
+    margin-right: 80px;
+  }
+}
+
+
+
+/*
+ * Themes
+ *
+ * sets the page theme
+ */
+ .theme-base-sabana{
+  background-color: rgb(233,233,226);
+  background-image: url('/img/panel-beige-chop.png');
+  }
+ @media (min-width: 48em){
+.theme-base-sabana{
+background-color: rgb(233,233,226);
+background-image: url('/img/panel-beige2.png');
+background-size: cover;
+background-position: center;
+}
+}
+.theme-base-sabana .sidebar {
+  background-color: rgb(170,53,67);
+  background-image: url('/img/rotate-output2.png');
+  /*filter: grayscale(80%);*/
+  background-size: cover;
+  background-position: center;
+}
+.theme-base-sabana .content a,
+.theme-base-sabana .related-posts li a:hover {
+  /*color: #663300;*/
+  color: #202020;
+}
+
+
+/*
+ * Post addons
+ *
+ * Here are all styles of the media
+ */
+
+
+.image-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 30px;
+}
+.post-image {
+  max-width: 100%;
+  height: auto;
+}
+figcaption {
+  text-align: center;
+  font-style: italic;
+}
+.addons-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ .audio-box{
+  margin: 30px 0 40px 0;
+ }
+
+ .video-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin-top: 30px;
+}
+
+.video-container video {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+
+
