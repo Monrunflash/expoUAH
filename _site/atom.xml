@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Exposición Área de Prehistoria UAH</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2023-04-10T22:29:32+02:00</updated>
- <id>http://localhost:4000</id>
+ <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
+ <link href="http://0.0.0.0:4000/"/>
+ <updated>2023-04-10T23:01:29+02:00</updated>
+ <id>http://0.0.0.0:4000</id>
  <author>
    <name>Samuel Coronil</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>I. Un viaje en el tiempo a través de la evolución humana</title>
-   <link href="http://localhost:4000/viaje-en-el-tiempo"/>
+   <link href="http://0.0.0.0:4000/viaje-en-el-tiempo"/>
    <updated>0001-01-04T23:58:32-00:14</updated>
-   <id>http://localhost:4000/viaje-en-el-tiempo</id>
+   <id>http://0.0.0.0:4000/viaje-en-el-tiempo</id>
    <content type="html">&lt;div class=&quot;video-container&quot;&gt;
 &lt;video preload=&quot;auto&quot; controls controlsList=&quot;nofullscreen&quot;&gt;
   &lt;source src=&quot;/media/Ayla intro 1.mp4&quot; type=&quot;video/mp4&quot;&gt;
@@ -45,9 +45,9 @@
  
  <entry>
    <title>II. Los orígenes de la humanidad</title>
-   <link href="http://localhost:4000/origenes-humanidad"/>
+   <link href="http://0.0.0.0:4000/origenes-humanidad"/>
    <updated>0001-01-03T23:58:32-00:14</updated>
-   <id>http://localhost:4000/origenes-humanidad</id>
+   <id>http://0.0.0.0:4000/origenes-humanidad</id>
    <content type="html">&lt;div class=&quot;addons-container&quot;&gt;
     &lt;audio class=&quot;audio-box&quot; src=&quot;/media/origenes_humanidad.mp3&quot; controls type=&quot;audio/mpeg&quot;&gt;
             &lt;a href=&quot;/media/origenes_humanidad.mp3&quot;&gt;
@@ -62,7 +62,7 @@
   &lt;div class=&quot;image-container&quot;&gt;
     &lt;img class=&quot;post-image&quot; src=&quot;/media/mandibula.gif&quot; alt=&quot;Mandibula humana&quot; style=&quot;border: 2px solid black&quot;&gt;
   &lt;/div&gt;
-  &lt;figcaption&gt;Reproducción 3D de la mandibula de Lucy&lt;/figcaption&gt;
+  &lt;figcaption&gt;Reproducción 3D de la mandíbula de Lucy&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Soy Ayla, y hoy quiero contaros cómo era tanto la vida de mis antepasados como la de los vuestros a través de la historia de la evolución humana. El origen de nuestro linaje da inicio con los primeros mamíferos parecidos a los primates. Dentro del orden de los primates, se ubican los homínidos o grandes simios. Por evidencia genética, se sabe que los chimpancés y seres humanos divergimos de un ancestro común que vivió hace aproximadamente unos 6 millones de años. Muchas especies evolucionaron en la rama que nos incluye a los &lt;span style=&quot;font-style: italic;&quot;&gt;Homo sapiens&lt;/span&gt;, aunque somos nosotros los únicos supervivientes en la actualidad. &lt;/p&gt;
@@ -75,9 +75,9 @@
  
  <entry>
    <title>III. El final de la Prehistoria</title>
-   <link href="http://localhost:4000/fin-prehistoria"/>
+   <link href="http://0.0.0.0:4000/fin-prehistoria"/>
    <updated>0001-01-02T23:58:32-00:14</updated>
-   <id>http://localhost:4000/fin-prehistoria</id>
+   <id>http://0.0.0.0:4000/fin-prehistoria</id>
    <content type="html">&lt;div class=&quot;addons-container&quot;&gt;
     &lt;audio class=&quot;audio-box&quot; src=&quot;/media/final_prehistoria.mp3&quot; controls type=&quot;audio/mpeg&quot;&gt;
             &lt;a href=&quot;/media/final_prehistoria.mp3&quot;&gt;
@@ -106,9 +106,9 @@
  
  <entry>
    <title>IV. Imágenes de la Prehistoria</title>
-   <link href="http://localhost:4000/imagenes-prehistoria"/>
+   <link href="http://0.0.0.0:4000/imagenes-prehistoria"/>
    <updated>0001-01-01T23:58:32-00:14</updated>
-   <id>http://localhost:4000/imagenes-prehistoria</id>
+   <id>http://0.0.0.0:4000/imagenes-prehistoria</id>
    <content type="html">&lt;div class=&quot;addons-container&quot;&gt;
     &lt;audio class=&quot;audio-box&quot; src=&quot;/media/imagenes_prehistoria.mp3&quot; controls type=&quot;audio/mpeg&quot;&gt;
             &lt;a href=&quot;/media/imagenes_prehistoria.mp3&quot;&gt;
@@ -133,9 +133,9 @@
  
  <entry>
    <title>V. Final del viaje</title>
-   <link href="http://localhost:4000/cierre"/>
+   <link href="http://0.0.0.0:4000/cierre"/>
    <updated>0000-12-31T23:58:32-00:14</updated>
-   <id>http://localhost:4000/cierre</id>
+   <id>http://0.0.0.0:4000/cierre</id>
    <content type="html">&lt;div class=&quot;video-container&quot;&gt;
 &lt;video preload=&quot;auto&quot; controls controlsList=&quot;nofullscreen&quot;&gt;
   &lt;source src=&quot;/media/Ayla_cierre.mp4&quot; type=&quot;video/mp4&quot;&gt;
