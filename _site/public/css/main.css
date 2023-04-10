@@ -14,12 +14,13 @@
  * Global resets
  *
  */
- @font-face {
+/* @font-face {
   font-family: 'Gothic';
   src: url('/fonts/GOTHIC.TTF') format('truetype');
-}
+}*/
 html {
-  font-family: 'Gothic', sans-serif;
+  /*font-family: 'Gothic', sans-serif;*/
+  font-family: 'Didact Gothic', sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -174,7 +175,7 @@ a.sidebar-nav-item:focus {
 
  footer {
   background-color: rgb(228,200,113);
-  background-image: url('/img/panel-amarillo-chop.png');
+  background-image: url('/img/panel-amarillo-chop.jpg');
   /*filter: grayscale(50%);*/
   padding: 20px;
 }
@@ -242,19 +243,19 @@ a.sidebar-nav-item:focus {
  */
  .theme-base-sabana{
   background-color: rgb(233,233,226);
-  background-image: url('/img/panel-beige-chop.png');
+  background-image: url('/img/panel-beige-chop2.jpg');
   }
  @media (min-width: 48em){
 .theme-base-sabana{
 background-color: rgb(233,233,226);
-background-image: url('/img/panel-beige2.png');
+background-image: url('/img/panel-beige2.jpg');
 background-size: cover;
 background-position: center;
 }
 }
 .theme-base-sabana .sidebar {
   background-color: rgb(170,53,67);
-  background-image: url('/img/rotate-output2.png');
+  background-image: url('/img/rotate-output.jpg');
   /*filter: grayscale(80%);*/
   background-size: cover;
   background-position: center;
