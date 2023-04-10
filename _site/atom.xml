@@ -4,7 +4,7 @@
  <title>Exposición Área de Prehistoria UAH</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-04-10T22:08:39+02:00</updated>
+ <updated>2023-04-10T22:29:32+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Samuel Coronil</name>
@@ -49,14 +49,21 @@
    <updated>0001-01-03T23:58:32-00:14</updated>
    <id>http://localhost:4000/origenes-humanidad</id>
    <content type="html">&lt;div class=&quot;addons-container&quot;&gt;
-    &lt;audio class=&quot;audio-box&quot; src=&quot;/media/origenes_humanidad.mp3&quot; preload=&quot;auto&quot; controls type=&quot;audio/mpeg&quot;&gt;
-            &lt;a href=&quot;/media/Intro_mezcla.mp3&quot;&gt;
+    &lt;audio class=&quot;audio-box&quot; src=&quot;/media/origenes_humanidad.mp3&quot; controls type=&quot;audio/mpeg&quot;&gt;
+            &lt;a href=&quot;/media/origenes_humanidad.mp3&quot;&gt;
                 Download audio
             &lt;/a&gt;
     &lt;/audio&gt;
 &lt;/div&gt;
 
 &lt;p&gt;¿Quiénes somos y de dónde venimos? Son dos de las preguntas que más han intrigado a los seres humanos a lo largo de su historia. Comprender nuestros orígenes es determinante a la hora de entender nuestra historia evolutiva y, por tanto, de planificar nuestro futuro como especie. Todas estas cuestiones me han acompañado siempre, sobre todo al ser una de las primeras mujeres &lt;span style=&quot;font-style: italic;&quot;&gt;Homo sapiens&lt;/span&gt;, una humana anatómicamente moderna. &lt;/p&gt;
+
+&lt;figure class=&quot;figure-container&quot;&gt;
+  &lt;div class=&quot;image-container&quot;&gt;
+    &lt;img class=&quot;post-image&quot; src=&quot;/media/mandibula.gif&quot; alt=&quot;Mandibula humana&quot; style=&quot;border: 2px solid black&quot;&gt;
+  &lt;/div&gt;
+  &lt;figcaption&gt;Reproducción 3D de la mandibula de Lucy&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Soy Ayla, y hoy quiero contaros cómo era tanto la vida de mis antepasados como la de los vuestros a través de la historia de la evolución humana. El origen de nuestro linaje da inicio con los primeros mamíferos parecidos a los primates. Dentro del orden de los primates, se ubican los homínidos o grandes simios. Por evidencia genética, se sabe que los chimpancés y seres humanos divergimos de un ancestro común que vivió hace aproximadamente unos 6 millones de años. Muchas especies evolucionaron en la rama que nos incluye a los &lt;span style=&quot;font-style: italic;&quot;&gt;Homo sapiens&lt;/span&gt;, aunque somos nosotros los únicos supervivientes en la actualidad. &lt;/p&gt;
 
@@ -72,8 +79,8 @@
    <updated>0001-01-02T23:58:32-00:14</updated>
    <id>http://localhost:4000/fin-prehistoria</id>
    <content type="html">&lt;div class=&quot;addons-container&quot;&gt;
-    &lt;audio class=&quot;audio-box&quot; src=&quot;/media/final_prehistoria.mp3&quot; preload=&quot;auto&quot; controls type=&quot;audio/mpeg&quot;&gt;
-            &lt;a href=&quot;/media/Intro_mezcla.mp3&quot;&gt;
+    &lt;audio class=&quot;audio-box&quot; src=&quot;/media/final_prehistoria.mp3&quot; controls type=&quot;audio/mpeg&quot;&gt;
+            &lt;a href=&quot;/media/final_prehistoria.mp3&quot;&gt;
                 Download audio
             &lt;/a&gt;
     &lt;/audio&gt;
@@ -103,8 +110,8 @@
    <updated>0001-01-01T23:58:32-00:14</updated>
    <id>http://localhost:4000/imagenes-prehistoria</id>
    <content type="html">&lt;div class=&quot;addons-container&quot;&gt;
-    &lt;audio class=&quot;audio-box&quot; src=&quot;/media/imagenes_prehistoria.mp3&quot; preload=&quot;auto&quot; controls type=&quot;audio/mpeg&quot;&gt;
-            &lt;a href=&quot;/media/Intro_mezcla.mp3&quot;&gt;
+    &lt;audio class=&quot;audio-box&quot; src=&quot;/media/imagenes_prehistoria.mp3&quot; controls type=&quot;audio/mpeg&quot;&gt;
+            &lt;a href=&quot;/media/imagenes_prehistoria.mp3&quot;&gt;
                 Download audio
             &lt;/a&gt;
     &lt;/audio&gt;
