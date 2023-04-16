@@ -243,7 +243,8 @@ a.sidebar-nav-item:focus {
  */
  .theme-base-sabana{
   background-color: rgb(233,233,226);
-  background-image: url('/img/panel-beige-chop2.jpg');
+  background-image: url('/img/panel-body-chop.jpg');
+  background-size: cover;
   }
  @media (min-width: 48em){
 .theme-base-sabana{
@@ -310,6 +311,18 @@ figcaption {
   max-width: 100%;
   max-height: 100%;
 }
+.tred-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin-top: 30px;
+}
 
+.tred-container iframe {
+  max-width: 100%;
+  max-height: 100%;
+  border: 2px solid black;
+}
 
 
