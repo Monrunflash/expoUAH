@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Exposición Área de Prehistoria UAH</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2023-04-16T17:56:24+02:00</updated>
- <id>http://localhost:4000</id>
+ <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
+ <link href="http://0.0.0.0:4000/"/>
+ <updated>2023-04-17T00:03:19+02:00</updated>
+ <id>http://0.0.0.0:4000</id>
  <author>
    <name>Samuel Coronil</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>I. Un viaje en el tiempo a través de la evolución humana</title>
-   <link href="http://localhost:4000/viaje-en-el-tiempo"/>
+   <link href="http://0.0.0.0:4000/viaje-en-el-tiempo"/>
    <updated>0001-01-04T23:58:32-00:14</updated>
-   <id>http://localhost:4000/viaje-en-el-tiempo</id>
+   <id>http://0.0.0.0:4000/viaje-en-el-tiempo</id>
    <content type="html">&lt;div class=&quot;video-container&quot;&gt;
 &lt;video preload=&quot;auto&quot; controls controlsList=&quot;nofullscreen&quot;&gt;
   &lt;source src=&quot;/media/Ayla intro 1.mp4&quot; type=&quot;video/mp4&quot;&gt;
@@ -45,9 +45,9 @@
  
  <entry>
    <title>II. Los orígenes de la humanidad</title>
-   <link href="http://localhost:4000/origenes-humanidad"/>
+   <link href="http://0.0.0.0:4000/origenes-humanidad"/>
    <updated>0001-01-03T23:58:32-00:14</updated>
-   <id>http://localhost:4000/origenes-humanidad</id>
+   <id>http://0.0.0.0:4000/origenes-humanidad</id>
    <content type="html">&lt;div class=&quot;addons-container&quot;&gt;
     &lt;audio class=&quot;audio-box&quot; src=&quot;/media/origenes_humanidad.mp3&quot; controls type=&quot;audio/mpeg&quot;&gt;
             &lt;a href=&quot;/media/origenes_humanidad.mp3&quot;&gt;
@@ -67,6 +67,12 @@
 
 &lt;p&gt;Soy Ayla, y hoy quiero contaros cómo era tanto la vida de mis antepasados como la de los vuestros a través de la historia de la evolución humana. El origen de nuestro linaje da inicio con los primeros mamíferos parecidos a los primates. Dentro del orden de los primates, se ubican los homínidos o grandes simios. Por evidencia genética, se sabe que los chimpancés y seres humanos divergimos de un ancestro común que vivió hace aproximadamente unos 6 millones de años. Muchas especies evolucionaron en la rama que nos incluye a los &lt;span style=&quot;font-style: italic;&quot;&gt;Homo sapiens&lt;/span&gt;, aunque somos nosotros los únicos supervivientes en la actualidad. &lt;/p&gt;
 
+&lt;div class=&quot;tred-container&quot;&gt; &lt;iframe title=&quot;Grabado en roca&quot; frameborder=&quot;0&quot; allowfullscreen mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot; allow=&quot;autoplay; fullscreen; xr-spatial-tracking&quot; xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=&quot;https://sketchfab.com/models/4fe895b7924348edbed131ffb5f07051/embed&quot;&gt; &lt;/iframe&gt; &lt;/div&gt;
+
+&lt;figure class=&quot;figure-container&quot;&gt;
+  &lt;figcaption&gt;Reproducción 3D de la mandíbula de Lucy&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;Seguro que has oído hablar de una de mis antepasadas, Lucy. Su especie perteneciente a los Australopithecus, evolucionó en África oriental hace aproximadamente 4 millones de años y se extinguió hace 2 millones de años. Lucy y su especie fueron uno de los primeros homínidos en caminar erguidos.&lt;/p&gt;
 
 &lt;p&gt;Aunque ahora me parezca increíble, desde nuestra aparición hasta que desarrollamos la facultad de manipular unas simples piedras con las que crear herramientas pasaron millones de años. Hace 2 millones y medio de años, apareció el primer representante de la especie humana capaz de fabricar herramientas, el &lt;span style=&quot;font-style: italic;&quot;&gt;Homo habilis&lt;/span&gt;. Así, desde el Paleolítico empezamos a utilizar herramientas de piedra para cazar, alimentarnos y elaborar ropa. Estas consistían en cantos de río golpeados para lograr filos cortantes con los que cazar y descuartizar las presas con facilidad, lo que mejoró nuestra dieta, logrando más nutrientes, y favoreciendo así nuestro desarrollo cerebral.&lt;/p&gt;
@@ -75,9 +81,9 @@
  
  <entry>
    <title>III. El final de la Prehistoria</title>
-   <link href="http://localhost:4000/fin-prehistoria"/>
+   <link href="http://0.0.0.0:4000/fin-prehistoria"/>
    <updated>0001-01-02T23:58:32-00:14</updated>
-   <id>http://localhost:4000/fin-prehistoria</id>
+   <id>http://0.0.0.0:4000/fin-prehistoria</id>
    <content type="html">&lt;div class=&quot;addons-container&quot;&gt;
     &lt;audio class=&quot;audio-box&quot; src=&quot;/media/final_prehistoria.mp3&quot; controls type=&quot;audio/mpeg&quot;&gt;
             &lt;a href=&quot;/media/final_prehistoria.mp3&quot;&gt;
@@ -91,6 +97,12 @@
 &lt;p&gt;Se cree que nuestra especie evolucionó a partir del &lt;span style=&quot;font-style: italic;&quot;&gt;Homo Erectus&lt;/span&gt; hace unos 500.000 años, el primer homínido en controlar el fuego. De esa época se han encontrado diversos fósiles muy cercanos en apariencia al &lt;span style=&quot;font-style: italic;&quot;&gt;Homo sapiens&lt;/span&gt;, pero aún con diferencias anatómicas, por lo que los llamamos humanos arcaicos.&lt;/p&gt;
 
 &lt;p&gt;Estos se distinguen anatómicamente de nosotros por tener un cráneo más grueso, un arco superciliar prominente y una barbilla poco acentuada. Algunas de estas especies sobrevivieron hasta hace unos 30.000 a 10.000 años, lo que indicaría que convivimos con ellos durante un período. &lt;/p&gt;
+
+&lt;div class=&quot;tred-container&quot;&gt; &lt;iframe title=&quot;Grabado en roca&quot; frameborder=&quot;0&quot; allowfullscreen mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot; allow=&quot;autoplay; fullscreen; xr-spatial-tracking&quot; xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=&quot;https://sketchfab.com/models/f6796fb0aef34a3a9ab59429266692d2/embed&quot;&gt; &lt;/iframe&gt; &lt;/div&gt;
+
+&lt;figure class=&quot;figure-container&quot;&gt;
+  &lt;figcaption&gt;Ceramica campaniforme calcolítica&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Nosotros, los &lt;span style=&quot;font-style: italic;&quot;&gt;Homo sapiens&lt;/span&gt;, emigramos fuera del continente hace unos 100.000 años, en una segunda ola migratoria. Así, nuestra especie poco a poco reemplazó a las especies humanas arcaicas de descendientes del &lt;span style=&quot;font-style: italic;&quot;&gt;Homo erectus&lt;/span&gt;, que ya estaban asentadas en Asia y Europa. &lt;/p&gt;
 
@@ -106,9 +118,9 @@
  
  <entry>
    <title>IV. Imágenes de la Prehistoria</title>
-   <link href="http://localhost:4000/imagenes-prehistoria"/>
+   <link href="http://0.0.0.0:4000/imagenes-prehistoria"/>
    <updated>0001-01-01T23:58:32-00:14</updated>
-   <id>http://localhost:4000/imagenes-prehistoria</id>
+   <id>http://0.0.0.0:4000/imagenes-prehistoria</id>
    <content type="html">&lt;div class=&quot;addons-container&quot;&gt;
     &lt;audio class=&quot;audio-box&quot; src=&quot;/media/imagenes_prehistoria.mp3&quot; controls type=&quot;audio/mpeg&quot;&gt;
             &lt;a href=&quot;/media/imagenes_prehistoria.mp3&quot;&gt;
@@ -139,9 +151,9 @@
  
  <entry>
    <title>V. Final del viaje</title>
-   <link href="http://localhost:4000/cierre"/>
+   <link href="http://0.0.0.0:4000/cierre"/>
    <updated>0000-12-31T23:58:32-00:14</updated>
-   <id>http://localhost:4000/cierre</id>
+   <id>http://0.0.0.0:4000/cierre</id>
    <content type="html">&lt;div class=&quot;video-container&quot;&gt;
 &lt;video preload=&quot;auto&quot; controls controlsList=&quot;nofullscreen&quot;&gt;
   &lt;source src=&quot;/media/Ayla_cierre.mp4&quot; type=&quot;video/mp4&quot;&gt;
